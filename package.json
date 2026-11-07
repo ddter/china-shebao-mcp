@@ -1,0 +1,41 @@
+{
+  "name": "china-shebao-mcp",
+  "version": "1.0.1",
+  "description": "Model Context Protocol (MCP) server for China Social Security & Payroll Tax (shebao.org) — 31 provincial policies, 392 cities housing fund limits, monthly salary take-home, income tax, annual bonus, and retirement pension calculator.",
+  "license": "MIT",
+  "type": "module",
+  "homepage": "https://www.shebao.org",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ddter/china-shebao-mcp.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ddter/china-shebao-mcp/issues"
+  },
+  "bin": {
+    "china-shebao-mcp": "./bin/china-shebao-mcp.mjs"
+  },
+  "files": [
+    "bin/",
+    "server.json",
+    "README.md",
+    "LICENSE"
+  ],
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "mcp-server",
+    "china-shebao",
+    "shebao",
+    "social-security",
+    "housing-fund",
+    "payroll",
+    "tax",
+    "pension",
+    "streamable-http",
+    "calculator"
+  ]
+}
