@@ -72,7 +72,7 @@ https://www.shebao.org/openapi.json
 
 ---
 
-## 提供的 6 大核心测算工具 (Tools)
+## 提供的 7 大核心测算工具 (Tools)
 
 | 工具名称 | 功能说明 | 核心输入参数 |
 | :--- | :--- | :--- |
@@ -82,6 +82,7 @@ https://www.shebao.org/openapi.json
 | `calculate_income_tax` | 工资薪金累计预扣、劳务报酬按次预扣、年度综合所得汇算清缴 | `type`, `amount`, `month`, `annualLabor` |
 | `compare_annual_bonus_tax` | 对比年终奖单独计税与合并计税两种方案的个税差异与到手金额，提供最优筹划建议 | `annualSalary`, `bonus` |
 | `calculate_retirement_pension` | 企业职工基本养老保险退休金测算（月基础养老金 + 个人账户养老金） | `pensionBase`, `years`, `accountBalance`, `retireAge` |
+| `calculate_severance_pay` | 经济补偿金与裁员赔偿测算（N、N+1、2N、3倍社平封顶与财税〔2018〕164号个税免税测算） | `city`, `monthlySalary`, `workYears`, `type` |
 
 ---
 
@@ -91,6 +92,7 @@ https://www.shebao.org/openapi.json
 - **场景 2（算到手）**：“我在上海月薪 15,000 元，公积金缴 7%，每月专项附加扣除 1,500 元，税后能拿到手多少？五险一金公司和个人各交多少？”
 - **场景 3（年终奖筹划）**：“全年工资 18 万，年底发 5 万元年终奖，应该单独计税还是并入综合所得更划算？能帮我算出税额差异吗？”
 - **场景 4（养老金退休试算）**：“计发基数 8,000 元，累计工龄 25 年，个人账户累计 12 万元，60 岁退休每月能领多少养老金？”
+- **场景 5（经济补偿与免税测算）**：“我在北京月薪 28,000 元，工作了 3 年 4 个月，公司按 N+1 协商解除劳动合同，应发赔偿金是多少？当地 3 倍社平免税额度是多少？我需要交个税吗？最终能拿到手多少？”
 
 ---
 

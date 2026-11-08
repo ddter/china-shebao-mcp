@@ -2,8 +2,8 @@
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "io.github.ddter/china-shebao",
   "title": "中国社保与薪税计算器 (China Shebao & Payroll Tax MCP)",
-  "description": "中国 31 省市社保政策、392 城五险一金基数与费率、税后工资、个税汇算、年终奖与养老金测算引擎。",
-  "version": "1.0.1",
+  "description": "中国 31 省市社保政策、392 城五险一金基数与费率、税后工资、个税汇算、年终奖、养老金与裁员赔偿测算引擎。",
+  "version": "1.0.2",
   "websiteUrl": "https://www.shebao.org",
   "repository": {
     "url": "https://github.com/ddter/china-shebao-mcp",
