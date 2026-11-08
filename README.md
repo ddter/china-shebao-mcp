@@ -1,5 +1,6 @@
 # 中国社保与薪税计算器 MCP Server (China Shebao & Payroll Tax MCP)
 
+[![Glama MCP connector](https://glama.ai/mcp/connectors/io.github.ddter/china-shebao/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.ddter/china-shebao)
 [![MCP Registry](https://img.shields.io/badge/MCP_Registry-io.github.ddter%2Fchina--shebao-blue)](https://registry.modelcontextprotocol.io/v0.1/servers/io.github.ddter%2Fchina-shebao/versions/latest)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](./LICENSE)
 [![Website](https://img.shields.io/badge/Official_Site-shebao.org-ff6b35)](https://www.shebao.org)
