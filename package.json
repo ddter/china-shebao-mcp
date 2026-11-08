@@ -1,7 +1,7 @@
 {
   "name": "china-shebao-mcp",
-  "version": "1.0.2",
-  "description": "Model Context Protocol (MCP) server for China Social Security & Payroll Tax (shebao.org) — 31 provincial policies, 392 cities housing fund limits, monthly salary take-home, income tax, annual bonus, retirement pension, and severance compensation calculator.",
+  "version": "1.0.3",
+  "description": "Model Context Protocol (MCP) server for China Social Security & Payroll Tax (shebao.org) — 31 provincial policies, 392 cities housing fund limits, monthly salary take-home, income tax, annual bonus, retirement pension, severance compensation, flexible employment social, and maternity allowance calculator.",
   "license": "MIT",
   "type": "module",
   "homepage": "https://www.shebao.org",
